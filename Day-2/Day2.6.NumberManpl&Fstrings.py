@@ -19,3 +19,10 @@ s +=6
 s +=4
 s +=3
 print("score:",s)
+
+#different data types mix it up
+score =2
+height =1.2
+iswinning = True
+#f-string helps to mix it up
+print(f'your score is {score}, height is {height}, you are is {iswinning}')
