@@ -14,6 +14,3 @@
 print("Hello"[01])
 
 #Integer
-
-
-
