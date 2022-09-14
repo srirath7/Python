@@ -10,7 +10,20 @@
 
 #String : "Hello"[0]
 # [0] character as H, pulling partcular character
+print("Hello"[0])
 
-print("Hello"[01])
+# [4] character as Hell, pulling partcular character
+print("Hello"[:4])
+
+# [1 and 4] character as Hell, pulling partcular character
+print("Hello"[0]+"Hello"[3])
 
 #Integer
+print(int(2.1))
+
+#Float
+print(float(2))
+
+#Booleans
+True
+False
