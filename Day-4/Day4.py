@@ -1,1 +1,5 @@
-pi = 3.14159246
+# sample variable to Day4.2.py
+
+pi = "bangalore"
+
+print(pi)
