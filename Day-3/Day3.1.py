@@ -1,4 +1,4 @@
-#Conditional statements, Logic operators, Code blocks and scope
+#Day -3 :Conditional statements, Logic operators, Code blocks and scope
 
 #Welcome to Treasure Island
 #Your mission is to find the trasure
