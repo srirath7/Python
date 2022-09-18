@@ -11,3 +11,5 @@ if year%4 == 0:
         print(year," is not a leap year")
 else:
     print(year," is not a leap year")
+    
+# Better to use flow chart in https://draw.io 
