@@ -1,11 +1,26 @@
-F = ["Apple", "Watermelon", "Orange", "Pear", "Cherry", "Strawberry", "Grape", "Mango", "Blueberry", "Pomegranate"]
-C = ["red", "green", "blue", "yellow", "orange", "Voilet", "grey", "pink","indigo"]
+words = ["Apple", "Watermelon", "Orange", "Pear", "Cherry", "Strawberry", "Grape", "Mango", "Blueberry", "Pomegranate"]
+import random
+import tkinter
 
-select = input("What do you like to find? \n   ~Fruits \n   ~Colours\n choose one of above:").lower()
-if select == "fruits":
-    words = F
-else:
-    words = C
+choose = random.choice(words)
+print(f'solution is {choose}')
+display = []
+for letter in choose:
+    display += "_"
+print(display)
+    
 
+guess = input("Guess a letter: ")
+#for letter in choose:
+#    if letter == guess:
+#       print("right")
+#    else:
+#       print("wrong")
 
-print(words)
+for position in range(len(choose)):
+    letter = choose[position]
+    if letter == guess:
+        display[position] = letter
+    else:
+        display = display
+print(display)
