@@ -8,8 +8,6 @@ b = [" ", " "," "]
 c = [" ", " "," "]
 map = [a, b, c]
 #print(map)
-
-
 position = (input("where do you want treasure? ")) #23
 horizontal = int(position[0]) #2
 vertical = int(position[1]) #3

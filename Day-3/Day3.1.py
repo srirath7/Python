@@ -2,7 +2,7 @@
 
 #Welcome to Treasure Island
 #Your mission is to find the trasure
-# you areat a cross road. where do you want to go? "left" or "right"
+# you are at a cross road. where do you want to go? "left" or "right"
 
 #you come to lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.
 

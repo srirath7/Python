@@ -1,5 +1,3 @@
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-
 # Hurdle-3
 def turn_right():
     turn_left()

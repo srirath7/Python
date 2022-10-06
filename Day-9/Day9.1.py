@@ -3,7 +3,7 @@
 
 parameter = {
 "Bug" : "An error occured in code",
-"Good" : "Code running fine"
+"Good" : "Code running fine",
 }
 
 for key in parameter:

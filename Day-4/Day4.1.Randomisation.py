@@ -1,7 +1,7 @@
 #Randomisation and Python Lists
 import random
 # Random integer 
-random_interger= random.randint(5556,9967)
+random_interger= random.randint(1,10)
 print(random_interger)
 
 # Random Float

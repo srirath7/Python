@@ -27,7 +27,7 @@ def Hi(Name, Place, Ur):
     print(f'{Name}')
 Hi("Sri", "Tadipatri", "Software")
 
-# Multiple inputs
+# Multiple inputs with Arguements
 def Hi(Name="Sri", Place="Tadipatri", Ur="Software"):
     print(f"Hi! {Name}")
     print(f"Hope {Place}"," is a very good one.")
