@@ -32,3 +32,4 @@ if type == 'decode':
     cal()
 else:
     print("Error! of encode/decode")
+    
